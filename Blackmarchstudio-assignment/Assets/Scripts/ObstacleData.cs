@@ -3,11 +3,6 @@ using System.Collections.Generic;
 using System.IO;
 
 
-
-using UnityEngine;
-using System.Collections.Generic;
-using System.IO;
-
 [CreateAssetMenu(fileName = "ObstacleData", menuName = "Game/ObstacleData")]
 public class ObstacleData : ScriptableObject
 {
